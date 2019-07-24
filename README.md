@@ -1,5 +1,8 @@
 # nginx-study
 nginx study ：提供基本的nginx知识
+
+
+
 1.基础篇
     （1）[Nginx基础介绍](https://github.com/takeheartying/nginx-study/blob/master/resources/1.%E5%9F%BA%E7%A1%80%E7%AF%87/1.Nginx%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D.md)
 
