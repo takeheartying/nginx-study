@@ -4,6 +4,7 @@ nginx study ：提供基本的nginx知识
 
 
 1.基础篇
+
     （1）[Nginx基础介绍](https://github.com/takeheartying/nginx-study/blob/master/resources/1.%E5%9F%BA%E7%A1%80%E7%AF%87/1.Nginx%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D.md)
 
 ​    （2）[Nginx的工作模式和信号控制](https://github.com/takeheartying/nginx-study/blob/master/resources/1.%E5%9F%BA%E7%A1%80%E7%AF%87/2.Nginx%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%BC%8F%E5%92%8C%E4%BF%A1%E5%8F%B7%E6%8E%A7%E5%88%B6.md)
