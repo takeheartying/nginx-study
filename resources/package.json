@@ -1,0 +1,23 @@
+{
+  "name": "nginx-study",
+  "version": "1.0.0",
+  "description": "nginx study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/takeheartying/nginx-study.git"
+  },
+  "keywords": [
+    "nginx",
+    "study"
+  ],
+  "author": "liangxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takeheartying/nginx-study/issues"
+  },
+  "homepage": "https://github.com/takeheartying/nginx-study#readme"
+}
